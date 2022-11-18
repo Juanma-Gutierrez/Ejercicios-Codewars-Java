@@ -1,5 +1,5 @@
 /**
- * greet.java
+ * HelloWorld.java
  *
  * @version: 18/11/2022
  * @author: Juan Manuel Gutiérrez
