@@ -12,7 +12,8 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 
 ## Lista de ejercicios realizados:
 
-1. Nov 22 - Function 1-hello world
+1. Nov 22 - Hello World
+2. Nov 22 - Invert values
 
 
 ## Lenguajes empleados:
